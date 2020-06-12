@@ -15,5 +15,6 @@ Give examples
 
 ### Installing
 
-- Download NLTK
-- 
+- Download Anaconda
+- Using Anaconda Prompt, Download Natural Language ToolKit
+- Source data from Project Guntenberg
