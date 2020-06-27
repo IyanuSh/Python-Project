@@ -50,7 +50,7 @@ The dataset - Oliver Twist by Charles Dickens- used for this project was sourced
 Explanation
 --------------
 
-After loading the text from the web, the text was cleaned for effective analysis to remove stopwords, numbers and punctuation marks. Tokenization, splitting of whitespace, normalization (converting text to lowercase), stemming, and lemmatization operations were done on the text. To get the most frequent word mentioned in the text, frequency distribution was performed. The ten most frequent words mentioned in the test and their frequencies were represented on a grap using the Matplot Library and Word Cloud. 
+After loading the text from the web, the text was cleaned for effective analysis to remove stopwords, numbers and punctuation marks. Tokenization, splitting text by whitespace, normalization (converting text to lowercase), stemming, and lemmatization operations were done on the text. To get the most frequent word mentioned in the text, frequency distribution was performed. The ten most frequent words mentioned in the test and their frequencies were represented on a graph using the Matplot Library and Word Cloud. 
 To perform sentiment analysis on the text, Textblob was installed to know the subjectivity and polarity results of the text. Also, SentimentIntensityAnalyzer was imported using Vader to know the sentiment of the text. 
 
 Resources
