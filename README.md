@@ -45,7 +45,7 @@ The dataset - Oliver Twist by Charles Dickens- used for this project was sourced
 Project Goal
 --------------
 
-The goal of this project is to find out the most frequent that was mentioned in the text. Also, this project focuses on revealing the sentiment of the text. 
+The goal of this project is to find out the most frequent word that was mentioned in the text. Also, this project focuses on revealing the sentiment of the text. 
 
 Code Implememtation
 --------------
